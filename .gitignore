@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Runtime data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Dev / planning
+# plan.md
