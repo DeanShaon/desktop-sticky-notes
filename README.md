@@ -19,7 +19,8 @@ A lightweight Windows desktop note-taking tool with three modes, edge-docking au
 
 ### Screenshots
 
-> Replace this with actual screenshots using `Win+Shift+S`
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/413d7667-d213-4a21-8db5-0dfb01848bce" />
+
 
 ### Download
 
