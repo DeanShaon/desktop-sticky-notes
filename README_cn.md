@@ -19,7 +19,8 @@
 
 ### 截图
 
-> 运行后按 `Win+Shift+S` 截图替换此处
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/79ddd8e1-d901-4444-807a-fb02c983b356" />
+
 
 ### 下载
 
